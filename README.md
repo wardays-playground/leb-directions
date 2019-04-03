@@ -6,7 +6,7 @@ _TODO_:
 
 This repository contains two versions of a set of basic JS exercises.
 
-Within the two main folders, "inicial" cotains one of the first versions of the exercises, whereas "refactor" has the latest one.
+Within the two main folders, "initial" cotains one of the first versions of the exercises, whereas "refactor" has the latest one.
 
 The explanation of the exercises is as follows:
 
